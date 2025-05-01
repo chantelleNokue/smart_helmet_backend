@@ -162,4 +162,14 @@ router.post("/recommend", async (req, res) => {
   }
 });
 
+
+
 module.exports = router;
+
+
+
+// 1. Create USers 
+// 2. Get Users 
+// 3. Get User Details 
+// 4. Delete User 
+// 5. Ban User
